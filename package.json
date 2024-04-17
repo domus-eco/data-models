@@ -1,5 +1,5 @@
 {
-  "name": "smart-home-db-models",
+  "name": "@smarthome/smart-home-db-models",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
