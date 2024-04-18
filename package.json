@@ -1,17 +1,14 @@
 {
-  "name": "@mpc-home/db-data-models",
-  "version": "1.0.6",
+  "name": "@domus-eco/data-models",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "release": "standard-version && git push --follow-tags && npm publish"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "release": "standard-version && git push --follow-tags && npm publish --access public"
   },
   "keywords": [],
-  "author": "",
+  "author": "Marko Corn",
   "license": "ISC",
   "dependencies": {
     "mongoose": "^8.3.2"
