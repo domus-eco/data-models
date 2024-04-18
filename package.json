@@ -1,6 +1,6 @@
 {
-  "name": "@smarthome/smart-home-db-models",
-  "version": "1.0.4",
+  "name": "@mpc-home/db-data-models",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "mongoose": "^8.3.2"
+  },
+  "devDependencies": {
+    "standard-version": "^9.5.0"
   }
 }
